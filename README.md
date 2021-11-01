@@ -2,7 +2,6 @@
 ##
 - 💻 Estou trabalhando com Frond-end.
 - 📖 Estou aprendendo javascript
-- ⚡ Fato divertido: Você está vendo meu perfil, que maneiro!😀 
 <div align="center">
   <a href="https://github.com/ArthurLuan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLuan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
