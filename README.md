@@ -1,7 +1,7 @@
-### Olá, meu nome é Arthur, espero que goste do meu perfil!
+### Olá, meu nome é Arthur, sou programador Front-end!
 ##
 - 💻 Estou trabalhando com Frond-end.
-- 📖 Estou aprendendo javascript
+- 📖 Estudo javascript
 <div align="center">
   <a href="https://github.com/ArthurLuan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLuan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
